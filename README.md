@@ -13,6 +13,7 @@ Students may especially be interested in a collection of public tutorials and co
 
 * [Statistics tutorials](https://tpetzoldt.github.io/RBasics/)
 * [Collection of example models using the deSolve package](https://github.com/tpetzoldt/dynamic-R-models)
+* [more ...](https://tpetzoldt.github.io)
 
 ### Package documentation
 
