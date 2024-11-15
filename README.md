@@ -22,9 +22,12 @@ Students may especially be interested in a collection of public tutorials and co
 
 ### Tutorials for students
 
-* [Statistics tutorials](https://tpetzoldt.github.io/elements/)
+* [Statistics tutorials](https://tpetzoldt.github.io/elements/) and [lab exercises](https://tpetzoldt.github.io/element-labs/)
+* Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
+
+
 * [Collection of example models using the deSolve package](https://github.com/tpetzoldt/dynamic-R-models)
 * [more ...](https://tpetzoldt.github.io)
 
 ---
-[tpetzoldt](https://github.com/tpetzoldt) 2023-11-01
+[tpetzoldt](https://github.com/tpetzoldt) 2024-11-15
