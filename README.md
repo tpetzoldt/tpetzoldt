@@ -1,33 +1,40 @@
-## Overview
-
 <!--
 **tpetzoldt/tpetzoldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-This page contains the **source code view** of my packages. If you want to see an **overview and the documentation**, please consult https://tpetzoldt.github.io 
-Students may especially be interested in a collection of public tutorials and code snippets for statistics and modelling courses:
 
-## Quick Links
+## Packages with Documentation on Github Pages
 
-### List of Repositories
+* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
+* Introduction to the [antibioticR package](https://tpetzoldt.github.io/antibioticR)
 
-* [List of Repositories and Documentation](https://tpetzoldt.github.io)
-* [Source codes](https://github.com/tpetzoldt?tab=repositories)
+## Tutorials for Students
 
-### Package documentation
+* [Statistics tutorials and slides](https://tpetzoldt.github.io/elements/) in English
+* [Statistics lab exercises](https://tpetzoldt.github.io/element-labs/) in English
 
-* Estimation of growthrates with the [growthrates](https://tpetzoldt.github.io/growthrates/doc/Introduction.html)
-* Implementation of [user-defined growth models](https://tpetzoldt.github.io/growthrates/doc/User_models.html)
-* Introduction to the [antibioticR package](https://tpetzoldt.github.io/antibioticR/articles/Introduction.html)
+* [Statistiktutorials und Folien](https://tpetzoldt.github.io/elements-de/) auf deutsch
+* [Datensätze für Statistik-Kurse](https://tpetzoldt.github.io/datasets/)
 
-### Tutorials for students
-
-* [Statistics tutorials](https://tpetzoldt.github.io/elements/) and [lab exercises](https://tpetzoldt.github.io/element-labs/)
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
 
+## Differential Equation Models with the  **deSolve** Package
 
-* [Collection of example models using the deSolve package](https://github.com/tpetzoldt/dynamic-R-models)
-* [more ...](https://tpetzoldt.github.io)
+### Tutorials and Documentation
+
+* Chemostat model with ordinary differential equations [chemostat-ode](chemostat/chemostat-ode.html)
+* Individual-based chemostat model [chemostat-ibm](chemostat/chemostat-ibm.html)
+* Implementation of forcing functions and events in **deSolve** [deSolve-forcing](deSolve-forcing/deSolve-forcing.html)
+* Implementation of dynamic models in compiled code [deSolve-compiled](deSolve-compiled/deSolve-compiled.html)
+* Interactive dynamic models with shiny [deSolve-shiny](deSolve-shiny/deSolve-shiny.html)
+* Implementation of stoichiometry-matrix models with rodeo [deSolve-rodeo](deSolve-rodeo/rodeo-lv3.html)
+
+### Source Code Examples
+
+* [Collection of example models](https://github.com/tpetzoldt/dynamic-R-models)
+
+
+
 
 ---
 [tpetzoldt](https://github.com/tpetzoldt) 2024-11-15
