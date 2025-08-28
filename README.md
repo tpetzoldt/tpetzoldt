@@ -8,14 +8,17 @@
 * Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
 * Introduction to the [antibioticR package](https://tpetzoldt.github.io/antibioticR)
 
+## Do-It-Yourself-Projekte mit Mikrocontrollern (deutsch)
+
+* Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
+* Mikrocontrollerexperimente ohne Programmieren und Löten mit [Tasmota](https://tpetzoldt.github.io/growthlab/doc/mikrocontroller-mit-tasmota.html)
+
 ## Tutorials for Students
 
 * [Statistics tutorials and slides](https://tpetzoldt.github.io/elements/) in English
 * [Statistics lab exercises](https://tpetzoldt.github.io/element-labs/) in English
-
 * [Statistiktutorials und Folien](https://tpetzoldt.github.io/elements-de/) auf deutsch
 * [Example data sets](https://tpetzoldt.github.io/datasets/)
-
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
 
 ## Differential Equation Models with the  **deSolve** Package
