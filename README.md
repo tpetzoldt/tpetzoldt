@@ -6,7 +6,9 @@
 ## **R** Package Documentation on Github Pages
 
 * Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
-* Introduction to the [antibioticR package](https://tpetzoldt.github.io/antibioticR)
+* Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
+* Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
+* Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
 
 ## Do-It-Yourself-Projekte mit Mikrocontrollern (deutsch)
 
