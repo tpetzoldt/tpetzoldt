@@ -27,12 +27,12 @@
 
 ### Tutorials and Documentation
 
-* Chemostat model with ordinary differential equations: [chemostat-ode](chemostat/chemostat-ode.html)
-* Individual-based chemostat model: [chemostat-ibm](chemostat/chemostat-ibm.html)
-* Implementation of forcing functions and events: [deSolve-forcing](deSolve-forcing/deSolve-forcing.html)
-* Implementation of dynamic models in compiled code: [deSolve-compiled](deSolve-compiled/deSolve-compiled.html)
+* Chemostat model with ordinary differential equations: [chemostat-ode](https://tpetzoldt.github.io/chemostat/chemostat-ode.html)
+* Individual-based chemostat model: [chemostat-ibm](https://tpetzoldt.github.io/chemostat/chemostat-ibm.html)
+* Implementation of forcing functions and events: [deSolve-forcing](https://tpetzoldt.github.io/deSolve-forcing/deSolve-forcing.html)
+* Implementation of dynamic models in compiled code: [deSolve-compiled](https://tpetzoldt.github.io/deSolve-compiled/deSolve-compiled.html)
 * Interactive dynamic models with shiny: [deSolve-shiny](deSolve-shiny/deSolve-shiny.html)
-* Implementation of stoichiometry-matrix models with **rodeo**: [deSolve-rodeo](deSolve-rodeo/rodeo-lv3.html)
+* Implementation of stoichiometry-matrix models with **rodeo**: [deSolve-rodeo](https://tpetzoldt.github.io/deSolve-rodeo/rodeo-lv3.html)
 
 ### Source Code Examples
 
