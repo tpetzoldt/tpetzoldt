@@ -2,18 +2,11 @@
 **tpetzoldt/tpetzoldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## Mikrocontrollerprojekte für Schule, Studium und Hobby (deutsch)
 
-## **R** Package Documentation on Github Pages
-
-* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
-* Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
-* Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
-* Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
-
-## Do-It-Yourself-Projekte mit Mikrocontrollern (deutsch)
-
+* Mikrocontrollerexperimente ohne Programmieren und Löten mit Tasmota: [growthlab-Tasmota](https://tpetzoldt.github.io/growthlab/doc/mikrocontroller-mit-tasmota.html)
+* Eine Temperatursonde zur Erfassung der Schichtung von Seen: [Seetemperatur](https://tpetzoldt.github.io/seetemperatur/.html)
 * Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
-* Mikrocontrollerexperimente ohne Programmieren und Löten mit [Tasmota](https://tpetzoldt.github.io/growthlab/doc/mikrocontroller-mit-tasmota.html)
 
 ## Tutorials for Students
 
@@ -22,6 +15,13 @@
 * [Statistiktutorials und Folien](https://tpetzoldt.github.io/elements-de/) auf deutsch
 * [Example data sets](https://tpetzoldt.github.io/datasets/)
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
+
+## **R** Package Documentation on Github Pages
+
+* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
+* Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
+* Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
+* Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
 
 ## Differential Equation Models with the  **deSolve** Package
 
@@ -41,4 +41,4 @@
 
 
 ---
-[tpetzoldt](https://github.com/tpetzoldt) 2025-08-28
+[tpetzoldt](https://github.com/tpetzoldt) 2025-10-06
