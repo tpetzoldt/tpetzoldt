@@ -4,10 +4,10 @@
 
 ## Mikrocontrollerprojekte für Schule, Studium und Hobby (deutsch)
 
-* Mikrocontrollerexperimente ohne Programmieren und Löten mit Tasmota: [growthlab-Tasmota](https://tpetzoldt.github.io/growthlab/doc/mikrocontroller-mit-tasmota.html)
 * Eine Temperatursonde zur Erfassung der Schichtung von Seen: [Seetemperatur](https://tpetzoldt.github.io/seetemperatur/.html)
 * Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
-
+* Mikrocontrollerexperimente und Smart Home Projekte: [toy-sensors](https://tpetzoldt.github.io/toy-sensors)
+* 
 ## Tutorials for Students
 
 * [Statistics tutorials and slides](https://tpetzoldt.github.io/elements/) in English
