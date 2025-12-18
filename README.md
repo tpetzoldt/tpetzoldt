@@ -4,7 +4,7 @@
 
 ## Mikrocontrollerprojekte für Schule, Studium und Hobby (deutsch)
 
-* Eine Temperatursonde zur Erfassung der Schichtung von Seen: [Seetemperatur](https://tpetzoldt.github.io/seetemperatur/.html)
+* Eine Temperatursonde zur Erfassung der Schichtung von Seen: [Seetemperatur](https://tpetzoldt.github.io/seetemperatur/)
 * Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
 * Mikrocontrollerexperimente und Smart Home Projekte: [toy-sensors](https://tpetzoldt.github.io/toy-sensors)
 
