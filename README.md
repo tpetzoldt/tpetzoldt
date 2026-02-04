@@ -2,7 +2,7 @@
 **tpetzoldt/tpetzoldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Tutorials for Students
+## 1. Tutorials for Students
 
 * [Statistics tutorials and slides](https://tpetzoldt.github.io/elements/) in English
 * [Statistics lab exercises](https://tpetzoldt.github.io/element-labs/) in English
@@ -10,7 +10,7 @@
 * [Example data sets](https://tpetzoldt.github.io/datasets/)
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
 
-## Differential Equation Models with the  **deSolve** Package
+## 2. Differential Equation Models with the  **deSolve** Package
 
 * Source code of the **deSolve** package: https://github.com/tpetzoldt/desolve/
 
@@ -28,7 +28,7 @@
 
 * [Collection of example models](https://github.com/tpetzoldt/dynamic-R-models)
 
-## More ...
+## 3. More ...
 
 ### Additional **R** Package Documentation on Github Pages
 
