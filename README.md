@@ -2,12 +2,6 @@
 **tpetzoldt/tpetzoldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Mikrocontrollerprojekte für Schule, Studium und Hobby (deutsch)
-
-* Eine Temperatursonde zur Erfassung der Schichtung von Seen: [Seetemperatur](https://tpetzoldt.github.io/seetemperatur/)
-* Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
-* Mikrocontrollerexperimente und Smart Home Projekte: [toy-sensors](https://tpetzoldt.github.io/toy-sensors)
-
 ## Tutorials for Students
 
 * [Statistics tutorials and slides](https://tpetzoldt.github.io/elements/) in English
@@ -16,14 +10,10 @@
 * [Example data sets](https://tpetzoldt.github.io/datasets/)
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
 
-## **R** Package Documentation on Github Pages
-
-* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
-* Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
-* Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
-* Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
-
 ## Differential Equation Models with the  **deSolve** Package
+
+* Source code of the **deSolve** package: https://github.com/tpetzoldt/desolve/
+
 
 ### Tutorials and Documentation
 
@@ -38,7 +28,21 @@
 
 * [Collection of example models](https://github.com/tpetzoldt/dynamic-R-models)
 
+## More ...
+
+### Additional **R** Package Documentation on Github Pages
+
+* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
+* Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
+* Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
+* Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
+
+### Mikrocontrollerprojekte für Schule, Studium und Hobby (deutsch)
+
+* Eine Temperatursonde zur Erfassung der Schichtung von Seen: [Seetemperatur](https://tpetzoldt.github.io/seetemperatur/)
+* Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
+* Mikrocontrollerexperimente und Smart Home Projekte: [toy-sensors](https://tpetzoldt.github.io/toy-sensors)
 
 
 ---
-[tpetzoldt](https://github.com/tpetzoldt) 2025-12-14
+[tpetzoldt](https://github.com/tpetzoldt) 2025-10-06
