@@ -6,7 +6,7 @@
 
 * [Statistics tutorials and slides](https://tpetzoldt.github.io/elements/) in English
 * [Statistics lab exercises](https://tpetzoldt.github.io/element-labs/) in English
-* [Statistiktutorials und Folien](https://tpetzoldt.github.io/elements-de/) auf deutsch
+* [Statistik-Tutorials und Folien](https://tpetzoldt.github.io/elements-de/) auf deutsch
 * [Example data sets](https://tpetzoldt.github.io/datasets/)
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
 
@@ -37,7 +37,7 @@
 * Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
 * Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
 
-### Mikrocontrollerprojekte für Schule, Studium und Hobby (deutsch)
+### Microcontrollerprojekte für Schule, Studium und Hobby (deutsch)
 
 * Eine Temperatursonde zur Erfassung der Schichtung von Seen: [Seetemperatur](https://tpetzoldt.github.io/seetemperatur/)
 * Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
@@ -45,4 +45,4 @@
 
 
 ---
-[tpetzoldt](https://github.com/tpetzoldt) 2025-10-06
+[tpetzoldt](https://github.com/tpetzoldt) 2026-07-13
