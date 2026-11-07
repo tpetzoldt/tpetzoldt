@@ -22,6 +22,7 @@
 * Implementation of forcing functions and events: [deSolve-forcing](https://tpetzoldt.github.io/deSolve-forcing/deSolve-forcing.html)
 * Implementation of dynamic models in compiled code: [deSolve-compiled](https://tpetzoldt.github.io/deSolve-compiled/deSolve-compiled.html)
 * Interactive dynamic models with shiny: [deSolve-shiny](https://tpetzoldt.github.io/deSolve-shiny/deSolve-shiny.html)
+* Serverless interactive simulations with webR: [deSolve-webR](https://tpetzoldt.github.io/deSolve-webR/)
 * Implementation of stoichiometry-matrix models with **rodeo**: [deSolve-rodeo](https://tpetzoldt.github.io/deSolve-rodeo/rodeo-lv3.html)
 
 ### Source Code Examples
