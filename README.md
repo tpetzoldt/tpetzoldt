@@ -1,5 +1,5 @@
 <!--
-**tpetzoldt/tpetzoldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tpetzoldt/tpetzoldt** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
@@ -23,7 +23,8 @@
 * [Example data sets](https://tpetzoldt.github.io/datasets/)
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
 
-## Differential Equation Models with the  **deSolve** Package
+## Differential Equation Models with the  **deSolve** Package <img src="figures/logo.svg" align="right" height="100px" alt="deSolve logo" />
+
 
 ### Tutorials and Documentation
 
@@ -32,6 +33,7 @@
 * Implementation of forcing functions and events: [deSolve-forcing](https://tpetzoldt.github.io/deSolve-forcing/deSolve-forcing.html)
 * Implementation of dynamic models in compiled code: [deSolve-compiled](https://tpetzoldt.github.io/deSolve-compiled/deSolve-compiled.html)
 * Interactive dynamic models with shiny: [deSolve-shiny](https://tpetzoldt.github.io/deSolve-shiny/deSolve-shiny.html)
+* Online simulation of dynamic models with: [webR](https://tpetzoldt.github.io/deSolve-webR/)
 * Implementation of stoichiometry-matrix models with **rodeo**: [deSolve-rodeo](https://tpetzoldt.github.io/deSolve-rodeo/rodeo-lv3.html)
 
 ### Source Code Examples
@@ -41,4 +43,4 @@
 
 
 ---
-[tpetzoldt](https://github.com/tpetzoldt) 2025-08-28
+[tpetzoldt](https://github.com/tpetzoldt) 2026-11-12
