@@ -2,7 +2,7 @@
 **tpetzoldt/tpetzoldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 1. Tutorials for Students
+## 1. Tutorials for Students  <img src="figures/titlepage-lecture-slides.svg" align="right" height="100px" alt="statistics course icon" />
 
 * [Statistics tutorials and slides](https://tpetzoldt.github.io/elements/) in English
 * [Statistics lab exercises](https://tpetzoldt.github.io/element-labs/) in English
@@ -10,7 +10,7 @@
 * [Example data sets](https://tpetzoldt.github.io/datasets/)
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
 
-## 2. Differential Equation Models with the  **deSolve** Package <img src="figures/logo.svg" align="right" height="100px" alt="deSolve logo" />
+## 2. Differential Equation Models with the  **deSolve** Package <img src="figures/logo.svg" align="right" height="150px" alt="deSolve logo" />
 
 
 * Source code of the **deSolve** package: https://github.com/tpetzoldt/desolve/
@@ -38,6 +38,7 @@
 * Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
 * Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
 * Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
+* R package to access, share and amend Zotero bibliographies [biblioview](https://tpetzoldt.github.io/biblioview/)
 
 ### Microcontrollerprojekte für Schule, Studium und Hobby (deutsch)
 
@@ -47,4 +48,4 @@
 
 
 ---
-[tpetzoldt](https://github.com/tpetzoldt) 2026-07-13
+[tpetzoldt](https://github.com/tpetzoldt) 2026-11-13
