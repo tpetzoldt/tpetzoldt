@@ -1,29 +1,19 @@
 <!--
-**tpetzoldt/tpetzoldt** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
+**tpetzoldt/tpetzoldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-## **R** Package Documentation on Github Pages
-
-* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
-* Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
-* Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
-* Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
-
-## Do-It-Yourself-Projekte mit Mikrocontrollern (deutsch)
-
-* Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
-* Mikrocontrollerexperimente ohne Programmieren und Löten mit [Tasmota](https://tpetzoldt.github.io/growthlab/doc/mikrocontroller-mit-tasmota.html)
-
-## Tutorials for Students
+## 1. Tutorials for Students
 
 * [Statistics tutorials and slides](https://tpetzoldt.github.io/elements/) in English
 * [Statistics lab exercises](https://tpetzoldt.github.io/element-labs/) in English
-* [Statistiktutorials und Folien](https://tpetzoldt.github.io/elements-de/) auf deutsch
+* [Statistik-Tutorials und Folien](https://tpetzoldt.github.io/elements-de/) auf deutsch
 * [Example data sets](https://tpetzoldt.github.io/datasets/)
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
 
-## Differential Equation Models with the  **deSolve** Package <img src="figures/logo.svg" align="right" height="100px" alt="deSolve logo" />
+## 2. Differential Equation Models with the  **deSolve** Package <img src="figures/logo.svg" align="right" height="100px" alt="deSolve logo" />
+
+
+* Source code of the **deSolve** package: https://github.com/tpetzoldt/desolve/
 
 
 ### Tutorials and Documentation
@@ -33,14 +23,28 @@
 * Implementation of forcing functions and events: [deSolve-forcing](https://tpetzoldt.github.io/deSolve-forcing/deSolve-forcing.html)
 * Implementation of dynamic models in compiled code: [deSolve-compiled](https://tpetzoldt.github.io/deSolve-compiled/deSolve-compiled.html)
 * Interactive dynamic models with shiny: [deSolve-shiny](https://tpetzoldt.github.io/deSolve-shiny/deSolve-shiny.html)
-* Online simulation of dynamic models with: [webR](https://tpetzoldt.github.io/deSolve-webR/)
+* Serverless interactive simulations with webR: [deSolve-webR](https://tpetzoldt.github.io/deSolve-webR/)
 * Implementation of stoichiometry-matrix models with **rodeo**: [deSolve-rodeo](https://tpetzoldt.github.io/deSolve-rodeo/rodeo-lv3.html)
 
 ### Source Code Examples
 
 * [Collection of example models](https://github.com/tpetzoldt/dynamic-R-models)
 
+## 3. More ...
+
+### Additional **R** Package Documentation on Github Pages
+
+* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
+* Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
+* Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
+* Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
+
+### Microcontrollerprojekte für Schule, Studium und Hobby (deutsch)
+
+* Eine Temperatursonde zur Erfassung der Schichtung von Seen: [Seetemperatur](https://tpetzoldt.github.io/seetemperatur/)
+* Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
+* Mikrocontrollerexperimente und Smart Home Projekte: [toy-sensors](https://tpetzoldt.github.io/toy-sensors)
 
 
 ---
-[tpetzoldt](https://github.com/tpetzoldt) 2026-11-12
+[tpetzoldt](https://github.com/tpetzoldt) 2026-07-13
