@@ -31,11 +31,13 @@
 * [Collection of example models](https://github.com/tpetzoldt/dynamic-R-models)
 
 
-## 3. Authored and co-authored **R** Packages at **R-Universe**
+## 3. Authored and Co-Authored **R** Packages at **R-Universe**
 
-* https://tpetzoldt.r-universe.dev/
+r-universe-logo.svg
 
-## Package documentation on Github Pages
+* [https://tpetzoldt.r-universe.dev/ <img src="figures/r-universe-logo.svg" align="right" height="150px" alt="R Universe Logo" /></a>](https://tpetzoldt.r-universe.dev/)
+
+## Package Documentation on Github Pages
 
 * Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/) <img src="figures/growthrates-logo.svg" align="right" height="150px" alt="growthrates logo" /></a>
 * Simulation of Ecological (and other) Models with R package [simecol](https://tpetzoldt.github.io/simecol/) <img src="figures/simecol-logo.svg" align="right" height="150px" alt="simecol logo" /></a>
