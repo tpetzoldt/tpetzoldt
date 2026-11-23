@@ -39,7 +39,7 @@
 ## Package Documentation on Github Pages
 
 * Estimation of growthrates with R package [growthrates <img src="figures/growthrates-logo.svg" align="right" height="100px" alt="growthrates logo" />](https://tpetzoldt.github.io/growthrates/)
-* Simulation of Ecological (and other) Models with R package [simecol <img src="figures/simecol-logo.svg" align="right" height="100px" alt="simecol logo" />(https://tpetzoldt.github.io/simecol/) 
+* Simulation of Ecological (and other) Models with R package [simecol <img src="figures/simecol-logo.svg" align="right" height="100px" alt="simecol logo" />](https://tpetzoldt.github.io/simecol/) 
 * Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
 * Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
 * Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
