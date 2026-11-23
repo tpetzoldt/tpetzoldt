@@ -10,7 +10,7 @@
 * [Example data sets](https://tpetzoldt.github.io/datasets/)
 * Document templates for internships, bachelor and master theses [https://github.com/tpetzoldt/hyb-tud-thesis-starterkit](https://github.com/tpetzoldt/hyb-tud-thesis-starterkit)
 
-## 2. Differential Equation Models with the  **deSolve** Package <a href="https://github.com/tpetzoldt/desolve/"><img src="figures/logo.svg" align="right" height="150px" alt="deSolve logo" /></a>
+## 2. Differential Equation Models with the  **deSolve** Package <a href="https://github.com/tpetzoldt/desolve/"><img src="figures/desolve-logo.svg" align="right" height="150px" alt="deSolve logo" /></a>
 
 
 * Source code of the **deSolve** package: https://github.com/tpetzoldt/desolve/
@@ -30,17 +30,23 @@
 
 * [Collection of example models](https://github.com/tpetzoldt/dynamic-R-models)
 
-## 3. More ...
 
-### Additional **R** Package Documentation on Github Pages
+## 3. Authored and co-authored **R** Packages at **R-Universe**
 
-* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/)
+* https://tpetzoldt.r-universe.dev/
+
+## Package documentation on Github Pages
+
+* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/) <img src="figures/growthrates-logo.svg" align="right" height="150px" alt="growthrates logo" /></a>
+* Simulation of Ecological (and other) Models with R package [simecol](https://tpetzoldt.github.io/simecol/) <img src="figures/simecol-logo.svg" align="right" height="150px" alt="simecol logo" /></a>
 * Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
 * Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
 * Volume balance simulation of lakes and reservoirs (experimental): [outfloweR](https://tpetzoldt.github.io/outfloweR/)
 * R package to access, share and amend Zotero bibliographies [biblioview](https://tpetzoldt.github.io/biblioview/)
 
-### Microcontrollerprojekte für Schule, Studium und Hobby (deutsch)
+
+
+## 4. Microcontrollerprojekte für Schule, Studium und Hobby (deutsch)
 
 * Eine Temperatursonde zur Erfassung der Schichtung von Seen: [Seetemperatur](https://tpetzoldt.github.io/seetemperatur/)
 * Reale und virtuelle Wachstumsexperimente für Schule und Studium: [growthlab](https://tpetzoldt.github.io/growthlab/)
