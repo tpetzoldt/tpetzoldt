@@ -2,7 +2,7 @@
 **tpetzoldt/tpetzoldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 1. Tutorials for Students  <a href="https://tpetzoldt.github.io/elements/"><img src="figures/titlepage-lecture-slides.svg" align="right" height="100px" alt="statistics course icon" /></<>
+## 1. Tutorials for Students  <a href="https://tpetzoldt.github.io/elements/"><img src="figures/titlepage-lecture-slides.svg" align="right" height="100px" alt="statistics course icon" /></a>
 
 * [Statistics tutorials and slides](https://tpetzoldt.github.io/elements/) in English
 * [Statistics lab exercises](https://tpetzoldt.github.io/element-labs/) in English
@@ -38,7 +38,7 @@
 
 ## Package Documentation on Github Pages
 
-* Estimation of growthrates with R package [growthrates](https://tpetzoldt.github.io/growthrates/) <img src="figures/growthrates-logo.svg" align="right" height="150px" alt="growthrates logo" />
+* Estimation of growthrates with R package [growthrates <img src="figures/growthrates-logo.svg" align="right" height="150px" alt="growthrates logo" />](https://tpetzoldt.github.io/growthrates/)
 * Simulation of Ecological (and other) Models with R package [simecol](https://tpetzoldt.github.io/simecol/) <img src="figures/simecol-logo.svg" align="right" height="150px" alt="simecol logo" />
 * Introduction to the [antibioticR](https://tpetzoldt.github.io/antibioticR) package
 * Feature engineering for regression models (experimental): [mlfeaturer](https://tpetzoldt.github.io/mlfeaturer/)
