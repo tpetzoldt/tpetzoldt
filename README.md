@@ -34,7 +34,7 @@
 ## 3. Authored and Co-Authored **R** Packages at **R-Universe**
 
 
-* [<img src="figures/r-universe-logo.svg" height="50px" alt="R Universe Logo" />](https://tpetzoldt.r-universe.dev/)
+[<img src="figures/r-universe-logo.svg" height="30px" alt="R Universe Logo" /> https://tpetzoldt.r-universe.dev/](https://tpetzoldt.r-universe.dev/)
 
 ## Package Documentation on Github Pages
 
